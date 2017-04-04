@@ -1,0 +1,18 @@
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\bin\Release\HDDMonitor.exe
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\bin\Release\HDDMonitor.pdb
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\HDDMonitor.frmHDDMonitorMainForm.resources
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\HDDMonitor.Properties.Resources.resources
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\HDDMonitor.exe
+C:\Users\Stephen\Desktop\HDDMonitor - Gerry\HDDMonitor\obj\x86\Release\HDDMonitor.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\HDDMonitor.exe
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\HDDMonitor.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\bin\Release\HDDMonitor.exe
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\bin\Release\HDDMonitor.pdb
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\HDDMonitor.frmHDDMonitorMainForm.resources
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\HDDMonitor.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Stephen\Documents\Visual Studio 2010\Projects\UI Design\HDDMonitor - Current\HDDMonitor\obj\x86\Release\GenerateResource.write.1.tlog
